@@ -1,0 +1,11 @@
+
+# ID | Name | Category | Price | Description | Stock | Extra Details
+
+E001 | Smartphone X | Electronics | 50000 | Latest smartphone with 5G | 50 | Brand:TechBrand, Warranty:24
+E002 | Laptop Pro | Electronics | 85000 | High performance laptop | 30 | Brand:CompTech, Warranty:12
+
+C001 | Cotton T-Shirt | Clothing | 1200 | 100% Cotton T-Shirt | 100 | Size:M, Color:Blue, Material:Cotton
+C002 | Denim Jeans | Clothing | 2500 | Slim fit denim jeans | 60 | Size:L, Color:Black, Material:Denim
+
+B001 | Java Programming | Book | 800 | Learn Java from scratch | 75 | Author:John Doe, ISBN:978-3-16-148410-0, Pages:400
+B002 | Data Structures | Book | 650 | DS concepts explained | 50 | Author:Jane Smith, ISBN:978-1-23-456789-0, Pages:350
